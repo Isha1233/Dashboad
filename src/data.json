@@ -1,0 +1,204 @@
+
+[
+    {
+      "Rank": 1,
+      "Name": "Trader Alpha",
+      "Calmar Ratio": 2.5,
+      "Overall Profit": 150000,
+      "Avg. Daily Profit": 7500,
+      "Win % (Day)": 80,
+      "Price (Rs)": 5000,
+      "Action": "View"
+    },
+    {
+      "Rank": 2,
+      "Name": "Trader Beta",
+      "Calmar Ratio": 2.3,
+      "Overall Profit": 140000,
+      "Avg. Daily Profit": 7000,
+      "Win % (Day)": 78,
+      "Price (Rs)": 4900,
+      "Action": "View"
+    },
+    {
+      "Rank": 3,
+      "Name": "Trader Gamma",
+      "Calmar Ratio": 2.1,
+      "Overall Profit": 130000,
+      "Avg. Daily Profit": 6500,
+      "Win % (Day)": 75,
+      "Price (Rs)": 4800,
+      "Action": "View"
+    },
+    {
+      "Rank": 4,
+      "Name": "Trader Delta",
+      "Calmar Ratio": 2.0,
+      "Overall Profit": 120000,
+      "Avg. Daily Profit": 6000,
+      "Win % (Day)": 73,
+      "Price (Rs)": 4700,
+      "Action": "View"
+    },
+    {
+      "Rank": 5,
+      "Name": "Trader Epsilon",
+      "Calmar Ratio": 1.9,
+      "Overall Profit": 110000,
+      "Avg. Daily Profit": 5500,
+      "Win % (Day)": 70,
+      "Price (Rs)": 4600,
+      "Action": "View"
+    },
+    {
+      "Rank": 6,
+      "Name": "Trader Zeta",
+      "Calmar Ratio": 1.8,
+      "Overall Profit": 100000,
+      "Avg. Daily Profit": 5000,
+      "Win % (Day)": 68,
+      "Price (Rs)": 4500,
+      "Action": "View"
+    },
+    {
+      "Rank": 7,
+      "Name": "Trader Eta",
+      "Calmar Ratio": 1.7,
+      "Overall Profit": 90000,
+      "Avg. Daily Profit": 4500,
+      "Win % (Day)": 65,
+      "Price (Rs)": 4400,
+      "Action": "View"
+    },
+    {
+      "Rank": 8,
+      "Name": "Trader Theta",
+      "Calmar Ratio": 1.6,
+      "Overall Profit": 80000,
+      "Avg. Daily Profit": 4000,
+      "Win % (Day)": 63,
+      "Price (Rs)": 4300,
+      "Action": "View"
+    },
+    {
+      "Rank": 9,
+      "Name": "Trader Iota",
+      "Calmar Ratio": 1.5,
+      "Overall Profit": 70000,
+      "Avg. Daily Profit": 3500,
+      "Win % (Day)": 60,
+      "Price (Rs)": 4200,
+      "Action": "View"
+    },
+    {
+      "Rank": 10,
+      "Name": "Trader Kappa",
+      "Calmar Ratio": 1.4,
+      "Overall Profit": 60000,
+      "Avg. Daily Profit": 3000,
+      "Win % (Day)": 58,
+      "Price (Rs)": 4100,
+      "Action": "View"
+    },
+    {
+      "Rank": 11,
+      "Name": "Trader Lambda",
+      "Calmar Ratio": 1.3,
+      "Overall Profit": 50000,
+      "Avg. Daily Profit": 2500,
+      "Win % (Day)": 55,
+      "Price (Rs)": 4000,
+      "Action": "View"
+    },
+    {
+      "Rank": 12,
+      "Name": "Trader Mu",
+      "Calmar Ratio": 1.2,
+      "Overall Profit": 40000,
+      "Avg. Daily Profit": 2000,
+      "Win % (Day)": 53,
+      "Price (Rs)": 3900,
+      "Action": "View"
+    },
+    {
+      "Rank": 13,
+      "Name": "Trader Nu",
+      "Calmar Ratio": 1.1,
+      "Overall Profit": 30000,
+      "Avg. Daily Profit": 1500,
+      "Win % (Day)": 50,
+      "Price (Rs)": 3800,
+      "Action": "View"
+    },
+    {
+      "Rank": 14,
+      "Name": "Trader Xi",
+      "Calmar Ratio": 1.0,
+      "Overall Profit": 20000,
+      "Avg. Daily Profit": 1000,
+      "Win % (Day)": 48,
+      "Price (Rs)": 3700,
+      "Action": "View"
+    },
+    {
+      "Rank": 15,
+      "Name": "Trader Omicron",
+      "Calmar Ratio": 0.9,
+      "Overall Profit": 10000,
+      "Avg. Daily Profit": 500,
+      "Win % (Day)": 45,
+      "Price (Rs)": 3600,
+      "Action": "View"
+    },
+    {
+      "Rank": 16,
+      "Name": "Trader Pi",
+      "Calmar Ratio": 0.8,
+      "Overall Profit": 9000,
+      "Avg. Daily Profit": 450,
+      "Win % (Day)": 43,
+      "Price (Rs)": 3500,
+      "Action": "View"
+    },
+    {
+      "Rank": 17,
+      "Name": "Trader Rho",
+      "Calmar Ratio": 0.7,
+      "Overall Profit": 8000,
+      "Avg. Daily Profit": 400,
+      "Win % (Day)": 40,
+      "Price (Rs)": 3400,
+      "Action": "View"
+    },
+    {
+      "Rank": 18,
+      "Name": "Trader Sigma",
+      "Calmar Ratio": 0.6,
+      "Overall Profit": 7000,
+      "Avg. Daily Profit": 350,
+      "Win % (Day)": 38,
+      "Price (Rs)": 3300,
+      "Action": "View"
+    },
+    {
+      "Rank": 19,
+      "Name": "Trader Tau",
+      "Calmar Ratio": 0.5,
+      "Overall Profit": 6000,
+      "Avg. Daily Profit": 300,
+      "Win % (Day)": 35,
+      "Price (Rs)": 3200,
+      "Action": "View"
+    },
+    {
+      "Rank": 20,
+      "Name": "Trader Upsilon",
+      "Calmar Ratio": 0.4,
+      "Overall Profit": 5000,
+      "Avg. Daily Profit": 250,
+      "Win % (Day)": 33,
+      "Price (Rs)": 3100,
+      "Action": "View"
+    }
+  ]
+  
